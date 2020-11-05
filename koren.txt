@@ -1,0 +1,7 @@
+double koren(int x)
+{
+double koren;
+koren = sqrt(x);
+return koren;
+}
+
