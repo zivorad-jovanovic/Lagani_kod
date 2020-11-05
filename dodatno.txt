@@ -1,7 +1,7 @@
 // nova funkcionalnost odnosno funkcija koja ce naci koren nekog broja
 
 #include <math.h>
-
+#include <stdlib.h>
 double koren (int x)
 {
 double koren;
